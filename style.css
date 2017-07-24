@@ -1,0 +1,62 @@
+@import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+body {
+	background-color: #FFffff;
+	}
+h1 {
+	font-family: "Alef Hebrew";
+	}
+body{
+	font-family: "Alef Hebrew"
+	}
+button{
+	font-family:  "Alef Hebrew"
+	}
+select {
+	font-family:  "Alef Hebrew"
+	}
+input {
+	font-family:  "Alef Hebrew"
+	}
+a  {
+	font-family:  "Alef Hebrew"
+	}
+#label_day {
+	position:absolute;
+	right: 5px;
+	top: 85px;
+}
+#label_month {
+	position:absolute;
+	right: 74px;
+	top: 85px;
+}
+#label_year {
+	position:absolute;
+	right: 215px;
+	top: 85px;
+}
+#day {
+	position:absolute;
+	right: 30px;
+	top: 85px;
+}
+#month {
+	position:absolute;
+	right: 115px;
+	top: 85px;
+}
+#year {
+	position:absolute;
+	right: 247px;
+	top: 83px;
+}
+#submit {
+	position:absolute;
+	right: 205px;
+	top: 115px;	
+}
+#reset {
+	position:absolute;
+	right: 288px;
+	top: 115px;
+}
